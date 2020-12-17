@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there, I'm Gourab. I'm a software developer, a maker and learner. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there,](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 
 
