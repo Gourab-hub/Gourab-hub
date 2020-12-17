@@ -16,7 +16,8 @@ Hi, I'm Gourab Banik Resourceful and enthusiastic final year (seventh semester) 
 - 🌱 I’m currently learning GraphQL, C++ and python ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
-
+>
+---
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
