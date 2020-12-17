@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hey there,](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+<h1 align="center">Hi 👋, I'm Gourab Banik</h1>
 
 
 
